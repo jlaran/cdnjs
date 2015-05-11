@@ -5,7 +5,8 @@
   "description": "Library used to create html5 banners ads trafficked through DoubleClick Studio and set up with Greensock animations",
   "homepage": "https://github.com/jlaran/cutback-js",
   "keywords": [
-    "cutback"
+    "cutback",
+    "cutback-js"
   ],
   "maintainers": [
     {
@@ -17,5 +18,10 @@
       "skype": "gab.webdesign"
     }
   ],
-  "repositories": []
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/jlaran/cutback-js"
+    }
+  ]
 }
